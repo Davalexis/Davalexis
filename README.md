@@ -1,8 +1,10 @@
-# 👋 Hi 
+#  Hi  there  👋
 
-![Your Profile Views Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-I'm a **Mobile App Developer** passionate about building clean UIs, experimenting with AI integrations. 
+
+I'm a **Mobile App Developer**
+passionate about building clean UIs, 
+experimenting with AI integrations. 
 I specialize in **Flutter**, **Firebase**, **Riverpod**, and **Python Cloud Functions**.
 
 Currently working on projects that explore first movie apps,  and wearable Flutter interfaces.
@@ -25,9 +27,9 @@ Currently working on projects that explore first movie apps,  and wearable Flutt
 ## 📬 How to reach me:
 
 - **Email**: Davalexis11@gmail
-- **X (Twitter)**: [@yourhandle](https://x.com/@Davalexis)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **GitHub**: [github.com/yourusername](https://github.com/DavidAlex)
+- **X (Twitter)**: [Twitter](https://x.com/@Davalexis)
+- **LinkedIn**: [linkedin](https://linkedin.com/in/yourname)
+- **GitHub**: [github](https://github.com/Davalexis)
 
 ---
 
