@@ -47,16 +47,16 @@ I specialize in **Flutter**, **Firebase**, **Riverpod**, and **Python Cloud Func
 
 ## 🚀 Projects I’ve Worked On
 
-- 🎬 **[Nigerian Movie App with Offline Mode](https://github.com/Davalexis/FilmFinder)**  
+- 🎬 **[FilmFinder](https://github.com/Davalexis/FilmFinder)**  
   A Flutter app that curates movies based on actor preferences, supports offline playback, and integrates TMDB API .  
   ![Film Finder App Demo ](https://your-gif-url-here.com/movieapp.gif)
 
-- 🔐 **[Secure Login + OTP Flow](https://github.com/Davalexis/Finova)**  
+- 🔐 **[Finova](https://github.com/Davalexis/Finova)**  
   Firebase phone authentication UI built with clean architecture, Riverpod state management, and full OTP validation flow.
   ![Finova App Demo ](https://your-gif-url-here.com/movieapp.gif)
 
   
- - ✅ **[Quirky: A To-Do List](https://github.com/Davalexis/Quirky)**  
+ - ✅ **[Quirky](https://github.com/Davalexis/Quirky)**  
   A fun and responsive to-do list app that leverages Riverpod, and a quirky UI to make productivity feel less robotic.  
   ![Quirky Demo](https://your-gif-url-here.com/quirky.gif)
 
