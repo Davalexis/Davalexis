@@ -7,14 +7,14 @@ passionate about building clean UIs,
 experimenting with AI integrations. 
 I specialize in **Flutter**, **Firebase**, **Riverpod**, and **Python Cloud Functions**.
 
-Currently working on projects that explore first movie apps,  and wearable Flutter interfaces.
 
 ---
 
-- 🌱 **What I'm learning**:
+- 🌱 **What I'm Exploring  next **:
   - SwiftUI (comparing with Flutter for cross-learning)
   - Flutter embedded systems + wearables
   - Building scalable AI-assisted workflows
+    
 
 - 💬 **Ask me about**:
   - Flutter clean architecture
@@ -44,9 +44,20 @@ Currently working on projects that explore first movie apps,  and wearable Flutt
 
 ---
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+## 🚀 Projects I’ve Worked On
 
----
+- 🎬 **[Nigerian Movie App with Offline Mode](https://github.com/Davalexis/FilmFinder)**  
+  A Flutter app that curates movies based on actor preferences, supports offline playback, and integrates TMDB API .  
+  ![Film Finder App Demo ](https://your-gif-url-here.com/movieapp.gif)
+
+- 🔐 **[Secure Login + OTP Flow](https://github.com/Davalexis/Finova)**  
+  Firebase phone authentication UI built with clean architecture, Riverpod state management, and full OTP validation flow.
+  ![Finova App Demo ](https://your-gif-url-here.com/movieapp.gif)
+
+  
+ - ✅ **[Quirky: A To-Do List](https://github.com/Davalexis/Quirky)**  
+  A fun and responsive to-do list app that leverages Riverpod, and a quirky UI to make productivity feel less robotic.  
+  ![Quirky Demo](https://your-gif-url-here.com/quirky.gif)
+
+
