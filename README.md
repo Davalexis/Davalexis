@@ -61,7 +61,7 @@ I specialize in **Flutter**, **Firebase**, **Riverpod**, and **Python Cloud Func
   ![Quirky Demo](https://your-gif-url-here.com/quirky.gif)
 
 
-🏠 **[Badi](https://github.com/Davalexis/badi)**  
+- 🏠 **[Badi](https://github.com/Davalexis/badi)**  
   A Flutter CRUD app for managing real estate listings  properties in real-time. Built with clean architecture, Riverpod state management, and local mock data for testing .  
   ![Badi App Demo](https://your-gif-url-here.com/badi.gif)
 
